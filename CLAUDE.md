@@ -1,6 +1,6 @@
-# Sito Mastro Editore (mastroeditore.it)
+# Sito Mastro Editore (mastroeditore.com)
 
-Sito statico pubblicato con GitHub Pages dal branch `main` (radice). Dominio: mastroeditore.it (file `CNAME`).
+Sito statico pubblicato con GitHub Pages dal branch `main` (radice). Dominio: mastroeditore.com (file `CNAME`).
 Proprietario: Ing. Luigi Grosso, Edizioni Mastro. Lingua del sito: italiano.
 
 ## Struttura
